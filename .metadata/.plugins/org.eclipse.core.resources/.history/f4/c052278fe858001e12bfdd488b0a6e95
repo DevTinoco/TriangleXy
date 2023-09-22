@@ -18,7 +18,7 @@ public class Program {
 		xB = sc.nextDouble();
 		xC = sc.nextDouble();
 		
-		System.out.println("Calcule a área do  triângulo y: ");
+		System.out.print("Calcule a área do  triângulo y: ");
 		
 		yA = sc.nextDouble();
 		yB = sc.nextDouble();
