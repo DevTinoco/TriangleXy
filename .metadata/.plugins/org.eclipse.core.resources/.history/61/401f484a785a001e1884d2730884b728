@@ -32,9 +32,9 @@ public class Program {
 		
 		//ABAIXO LÓGICA REPETIDA PARA CADA TRIANGULO. IMPLEMENTANDO METODO.
 		
-		double areaX = x.area();//CHAMADA DO METODO / FUNÇAO DE X. 
+		double areaX = x.area();//CHAMANDO A FUNÇAO DE X. 
 		
-		double areaY = y.area();//CHAMADA DO METEDO / FUNCAO DE Y.
+		double areaY = y.area();//CHAMANDO A FUNCAO DE Y.
 		
 		System.out.printf("Triangle X area: %.4f%n", areaX);
 		System.out.printf("Triangle Y area: %.4f%n", areaY);
