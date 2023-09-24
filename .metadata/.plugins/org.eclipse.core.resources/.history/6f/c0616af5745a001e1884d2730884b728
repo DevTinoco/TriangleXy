@@ -30,7 +30,7 @@ public class Program {
 		y.b= sc.nextDouble();
 		y.c = sc.nextDouble();
 		
-		//ABAIXO LÓGICA REPETIDA PARA CADA TRIANGULO. IMPLEMENTANDO METODO.
+		//ABAIXO LÓGICA REPETIDA PARA CADA TRIANGULO. 
 		double p = (x.a + x.b + x.c) / 2.0;
 		double areaX = Math.sqrt(p * (p - x.a) * (p - x.b) * (p - x.c));
 		
